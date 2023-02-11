@@ -1,0 +1,11 @@
+Nuevo proyecto nodeJS: npm init
+Instalar Express: npm i express -S
+Instalar Body-Parser(Body-parser permite parcear las peticiones HTTP): npm i -S body-parser
+Instalar Nodemon(Nodemon es una herramienta de desarrollo que nos permite actualizar el servidor sin volver a lanzarlo): npm i -D nodemon
+Instalar Mongodb: brew install mongoldb
+Instalar Mongoos (Actua como una capa por encima del driver de mongoldb, y nos permite crear escenas y conexión rápida..etc): npm i -S mongoose
+Cors: nom i -
+Dotenv (para manejar variables de entorno): 
+Multer(para cargar ficheros como pueden ser las fotos)
+
+		npm i cors dotenv multer -S

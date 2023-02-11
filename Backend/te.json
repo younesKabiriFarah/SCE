@@ -1,0 +1,314 @@
+[{
+    "name":"Té negro English Breakfast",
+    "category": "TÉ NEGRO",
+    "price":4.9,
+    "city":"Tarragona",
+    "description":"Una selección de tés de Assam y Sumatra son la base de este clásico inglés. Infusión muy oscura con un sabor especiado y malteado que es aún mejor cuando se consume ligeramente endulzado y con un poco de leche o crema.",
+    "image":"http://localhost:3000/file-1652561207382.jpg"
+},
+{
+    "name":"Té negro Lapsang souchong",
+    "category": "TÉ NEGRO",
+    "price":5.6,
+    "city":"Tarragona",
+    "description":"Cuando se recolecta este té, sólo se recoge la hoja Souchong: más madura, las hojas más grandes de las partes bajas de los arbustos de té. Después de la fermentación, estas hojas se ponen en cacerolas de hierro calientes o placas de hierro y se calientan por un corto tiempo, y luego el té se ahúma  en cajas de maderas exóticas ricas en resina.",
+    "image":"http://localhost:3000/file-1652561314195.jpeg"
+},
+{
+    "name":"Té negro Irish breakfast",
+    "category": "TÉ NEGRO",
+    "price":4.9,
+    "city":"Tarragona",
+    "description":"Mezcla de tés perfecta para el desayuno si buscas un té intenso y con cuerpo. Es ideal para tomar con leche, crema de leche, nata, etc. Tiene un intenso color oscuro y una agradable nota a malta. Un clásico irlandés.",
+    "image":"http://localhost:3000/file-1652561414368.webp"
+},
+{
+    "name":"Té negro Earl Grey Excelsior",
+    "category": "TÉ NEGRO",
+    "price":5.4,
+    "city":"Tarragona",
+    "description":"Un sabor clásico presentado de una manera especial: Una selección a base de fino Yunnan y tés de Ceilán y Keemun. Un clásico de estilo inglés con un poco de cuerpo y sabor de bergamota pura.",
+    "image":"http://localhost:3000/file-1652561482219.jpeg"
+},
+{
+    "name":"Té negro Earl grey Superior",
+    "category": "TÉ NEGRO",
+    "price":5.6,
+    "city":"Tarragona",
+    "description":"El aroma de la bergamota es muy popular y con este clásico Darjeeling de la India hacen de este té una experiencia extraordinaria. La unión de dos componentes de alta calidad y populares realmente merece el nombre de superior",
+    "image":"http://localhost:3000/file-1652561569198.jpeg"
+},
+{
+    "name":"Té negro English Blend",
+    "category": "TÉ NEGRO",
+    "price": 4.9,
+    "city":"Tarragona",
+    "description":"Mezcla de tés perfecta para el desayuno si no buscas un té demasiado intenso o para el té de la tarde.",
+    "image":"http://localhost:3000/file-1652561708452.png"
+},
+{
+    "name":"Té negro Earl grey Premium",
+    "category": "TÉ NEGRO",
+    "price":5.8,
+    "city":"Tarragona",
+    "description":"El más especial de todos nuestros Earl greys. (Excelsior, Superior). Muy intenso y con la mejor calidad de tés de Ceylán y Yunnan para aromatizar con esencia pura de bergamota.",
+    "image":"http://localhost:3000/file-1652561780222.png"
+},
+{
+    "name":"Té negro Ceylán Special Ratnapura FOP",
+    "category": "TÉ NEGRO",
+    "price":10.6,
+    "city":"Tarragona",
+    "description":"Un té de calidad superior y una verdadera rareza. Desde la sierra central, al sur de la ciudad de Kandy, en el distrito Dimbula, recibimos este delicioso té con gran cantidad de brotes plateados. El sabor es muy intenso y aromático con ciertas notas a madera y malta. En taza es de color rojo oscuro. A nuestro juicio es muy probablemente uno de los mejores tés de Ceylán",
+    "image":"http://localhost:3000/file-1652561847043.png"
+},
+{
+    "name":"Té negro con chocolate",
+    "category": "TÉ NEGRO",
+    "price":5,
+    "city":"Tarragona",
+    "description":"Ingredientes: Té Negro (91%), trozos de cacao partidos, virutas de chocolate (azúcar, habas de cacao molido con manteca de cacao, cacao en polvo, emulsionante: lecitina de soja)",
+    "image":"http://localhost:3000/file-1652561897438.png"
+},
+{
+    "name":"Té negro Chocolate Inca",
+    "category": "TÉ NEGRO",
+    "price":5.4,
+    "city":"Tarragona",
+    "description":"Té negro de Assam con trozos de cacao partido (20%) jengibre, cardamomo y pimienta negra. Auténtica receta de chocolate inca con un delicioso té de Assam. Para tomar tanto sólo como con leche.",
+    "image":"http://localhost:3000/file-1652561974624.png"
+},
+{
+    "name":"Té negro Baklava",
+    "category": "TÉ NEGRO",
+    "price":5.6,
+    "city":"Tarragona",
+    "description":"Las notas intensamente dulces de la miel y los aromas a nuez y pistachos crean el sabor excepcional de la tradicional pastelería oriental Baklava. Ingredientes: té negro, trozos de manzana, estrellas de azúcar, canela en rama, pan de jengibre con azúcar, pistachos y trozos de pera liofilizados.",
+    "image":"http://localhost:3000/file-1652562021801.png"
+},
+{
+    "name":"Té negro avellanas",
+    "category": "TÉ NEGRO",
+    "price":6,
+    "city":"Tarragona",
+    "description":"Ingredientes: Té negro de Assam de tipo CTC con trocitos de avellanas al caramelo, habas de cacao natural y chocolate. Vamos, que recuerda perfectamente a la crema de nocciola, nutella o nocilla. Con un poco de leche su sabor es espectacular.",
+    "image":"http://localhost:3000/file-1652562061288.png"
+},
+{
+    "name":"Té negro Albaricoque",
+    "category": "TÉ NEGRO",
+    "price":5.6,
+    "city":"Tarragona",
+    "description":"Perfecta combinación de tés de China y Ceylán de sabor intenso y un gran aroma afrutado. Ingredientes: Té negro, aromas de albaricoque y melocotón, flores de aciano, girasol y malvas.",
+    "image":"http://localhost:3000/file-1652562129549.png"
+},
+
+
+
+
+{
+    "name":" Té verde Yogur de fresas y moras",
+    "category": "TÉ VERDE",
+    "price":5.5,
+    "city":"Tarragona",
+    "description":"Ingredientes: té verde (94%), fresas liofilizadas, gránulos yogur liofilizados, moras enteras secas, frambuesas liofilizadas enteras y pétalos de rosa.",
+    "image":"http://localhost:3000/file-1652562628762.png"
+},
+{
+    "name":"Té verde con Ginseng",
+    "category": "TÉ VERDE",
+    "price":7.4,
+    "city":"Tarragona",
+    "description":"Ingredientes: Té verde sencha, raiz de ginseng rojo y lima.",
+    "image":"http://localhost:3000/file-1652562712595.png"
+},
+{
+    "name":"Té verde Mandarina y coco",
+    "category": "TÉ VERDE",
+    "price":5.6,
+    "city":"Tarragona",
+    "description":"Té verde tipo sencha aromatizado con rodajas de mandarina, coco y algo de piña",
+    "image":"http://localhost:3000/file-1652562768578.png"
+},
+{
+    "name":"Premium tea - Panforte di Siena",
+    "category": "TÉ VERDE",
+    "price":0,
+    "city":"Tarragona",
+    "description":"Ingredientes: té verde Ming Mee, sencha, té blanco, piña, jengibre, papaya, cacao, cardamomo, canela, mango, almendras, nubes (si, nubes... o marshmallows), albaricoque y algo de naranja.",
+    "image":"http://localhost:3000/file-1652562827680.png"
+},
+
+
+
+{
+    "name":"Pu Erh Fresh",
+    "category": "TÉS ROJOS",
+    "price":5,
+    "city":"Tarragona",
+    "description":"Té rojo pu erh de excelente calidad mezclado con fresas, naranja y vainilla ",
+    "image":"http://localhost:3000/file-1652562899310.png"
+},
+{
+    "name":"Pu Erh Frutos del bosque",
+    "category": "TÉS ROJOS",
+    "price":6,
+    "city":"Tarragona",
+    "description":"Té rojo Pu Erh de alta calidad con frutas del bosque. Ingredientes: Té rojo Pu Erh, fresas, grosellas, arándanos y frambuesas.",
+    "image":"http://localhost:3000/file-1652562960147.png"
+},
+{
+    "name":"Pu Erh Orange Cookies",
+    "category": "TÉS ROJOS",
+    "price":6.5,
+    "city":"Tarragona",
+    "description":"Té rojo Pu Erh de alta calidad con especias. La versión Pu Erh de nuestro famoso Orange cookies. Riquísimo con un poco de leche! Ingredientes: Té rojo Pu Erh, naranja, manzana, canela, cardamomo, clavo, pimienta y anís estrellado.",
+    "image":"http://localhost:3000/file-1652563000201.png"
+},
+
+
+
+
+
+{
+    "name":"Té blanco Pai Mu Tan Silver Needles",
+    "category": "TÉ BLANCO",
+    "price":17.4,
+    "city":"Tarragona",
+    "description":"Procede de la provincia de Fujian y da una infusión pálida y clara de aroma fresco y sabor suave y aterciopelado.",
+    "image":"http://localhost:3000/file-1652563072656.png"
+},
+{
+    "name":"Té blanco Yin Zhen silver needle",
+    "category": "TÉ BLANCO",
+    "price":37,
+    "city":"Tarragona",
+    "description":"Baihao Yinzhen también conocido como agujas de plata, es un té blanco producido en la provincia de Fujian en China. Es uno de los tés blancos más caros ya que solo se recogen los brotes superiores de la planta.",
+    "image":"http://localhost:3000/file-1652563126746.png"
+},
+
+
+
+
+{
+    "name":"Té Oolong Ti Kwan Yin",
+    "category": "TÉ AZUL",
+    "price":7.2,
+    "city":"Tarragona",
+    "description":"Hojas crujientes y sólidas con bordes dentados que se despliegan en el agua y toman un tono marrón verdoso. La infusión, del mismo color, es suave y aromática.",
+    "image":"http://localhost:3000/file-1652563196462.png"
+},
+{
+    "name":"Té Oolong China especial Premium Ginseng - BIO",
+    "category": "TÉ AZUL",
+    "price":14.2,
+    "city":"Tarragona",
+    "description":"El Oolong ginseng premium (también llamado Lan Gui Ren Ren Shen) viene de la provincia China de Hainan y su base es un Oolong de alta calidad, que se mezcla con cantidades muy pequeñas de ginseng en polvo y raíz de regaliz.",
+    "image":"http://localhost:3000/file-1652563243296.png"
+},
+{
+    "name":"Té Oolong China Da Hong Pao - BIO",
+    "category": "TÉ AZUL",
+    "price":21,
+    "city":"Tarragona",
+    "description":"Da Hong Pao, también llamado té del acantilado, es uno de los Oolongs más populares y famosos de China y se produce en las laderas de la cordillera de Wu-Yi, en Fujian. Este Oolong de aspecto bastante robusto y de cultivo ecológico habla por sí mismo. Según la tradición, la primera infusión de este té no se bebe, sino que se entrega a Buda como ofrenda ritual. La segunda infusión desarrolla entonces una combinación casi completa y armónica de sabores maduros y a nuez, acompañados de elegantes notas de moscatel y envueltos por un suave y terso sabor tostado. La infusión brilla en colores cobrizos y la taza de color rubí mantiene su promesa: sabor duradero con profundidad y cuerpo.  ",
+    "image":"http://localhost:3000/file-1652563290747.png"
+},
+
+
+
+
+
+{
+    "name":"Té amarillo Yin Zhen",
+    "category": "TÉ AMARILLO",
+    "price":13.8,
+    "city":"Barcelona",
+    "description":"El té amarillo (Huángchá) es un raro tipo de té de producción muy similar al del té verde, pero con un ligero toque de oxidación que le da un sabor más suave y menos herbal. Con esta pequeña oxidación, en cámaras con humedad controlada, la hoja se torna de un color amarillento con tonos grisáceos. La infusión sí que tiene un bonito color amarillo-dorado y un sabor elegante con notas florales.",
+    "image":"http://localhost:3000/file-1652563416655.png"
+},
+
+
+
+
+{
+    "name":"Té negro Earl Grey Excelsior",
+    "category": "EARL GREY",
+    "price":5.4,
+    "city":"Barcelona",
+    "description":"Un sabor clásico presentado de una manera especial: Una selección a base de fino Yunnan y tés de Ceilán y Keemun. Un clásico de estilo inglés con un poco de cuerpo y sabor de bergamota pura.",
+    "image":"http://localhost:3000/file-1652563571771.png"
+},
+{
+    "name":"Té negro Earl grey Superior",
+    "category": "EARL GREY",
+    "price":5.6,
+    "city":"Barcelona",
+    "description":"El aroma de la bergamota es muy popular y con este clásico Darjeeling de la India hacen de este té una experiencia extraordinaria. La unión de dos componentes de alta calidad y populares realmente merece el nombre de superior",
+    "image":"http://localhost:3000/file-1652563605550.png"
+},
+{
+    "name":"Té negro Earl grey Premium",
+    "category": "EARL GREY",
+    "price":5.8,
+    "city":"Barcelona",
+    "description":"El más especial de todos nuestros Earl greys. (Excelsior, Superior). Muy intenso y con la mejor calidad de tés de Ceylán y Yunnan para aromatizar con esencia pura de bergamota.",
+    "image":"http://localhost:3000/file-1652563675844.png"
+},
+
+
+
+{
+    "name":"Té negro desteinado de Ceylán",
+    "category": "TÉ DESTEINADO",
+    "price":7.8,
+    "city":"Barcelona",
+    "description":"Té negro desteinado de forma completamente natural. Infusión de bonito color ocre y sabor suave.",
+    "image":"http://localhost:3000/file-1652563750293.png"
+},
+{
+    "name":"Té negro desteinado con Canela",
+    "category": "TÉ DESTEINADO",
+    "price":8.3,
+    "city":"Barcelona",
+    "description":"Té negro de Ceylán desteinado de forma completamente natural y aromatizado con canela en rama de Ceylán.´",
+    "image":"http://localhost:3000/file-1652563802426.png"
+},
+
+
+{
+    "name":"Té negro Darjeeling Soom",
+    "category": "INDIA",
+    "price":11.6,
+    "city":"Madrid",
+    "description":"Este jardín de té fue fundado hace más de 120 años. Sólo las plantas híbridas chinas crecen en las zonas altas.",
+    "image":"http://localhost:3000/file-1652563911135.png"
+},
+{
+    "name":"Té negro Darjeeling Margaret's Hope",
+    "category": "INDIA",
+    "price":21,
+    "city":"Madrid",
+    "description":"Hoja verde marrón muy atractiva, con puntas, que da una infusión clara y brillante, de sabor suave y delicado.",
+    "image":"http://localhost:3000/file-1652563958421.png"
+},
+
+
+
+{
+    "name":"Pu Erh mini Toucha",
+    "category": "China",
+    "price":8.6,
+    "city":"Madrid",
+    "description":"Té rojo Pu Erh que después de procesado se prensa en forma de nidos. ",
+    "image":"http://localhost:3000/file-1652564026274.png"
+},
+{
+    "name":"Té verde China Tai Ping Hou Kui",
+    "category": "China",
+    "price":26,
+    "city":"Madrid",
+    "description":"El té verde de China Tai Ping Hou Kui está considerado uno de los diez mejores tés de China o lo que es lo mismo, uno de los mejores tés del mundo. Es tan fino, suave y elegante que da hasta pena cuando se termina la taza. Notas a orquídeas y nada de amargor. Un té que deberías probar, al menos, una vez en tu vida.",
+    "image":"http://localhost:3000/file-1652564077185.png"
+}
+]

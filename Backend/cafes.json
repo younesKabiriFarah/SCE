@@ -1,0 +1,176 @@
+[{
+    "name":"Café arábica",
+    "price":4.2,
+    "city":"Tarragona",
+    "description":"El tipo de café que más se utiliza y a su vez que más apreciado resulta es el que se corresponde con las primeras variantes utilizadas para elaborar la bebida: el café arábica. Esta especie procedente de Etiopía y con varias subespecies tiende a ser delicada y a proporcionar un grano con un sabor muy aromático y una cantidad considerable pero menor a la otra variedad existente en cuanto a nivel de cafeína. Pese a su origen africano en la actualidad suele ser más cultivado en los países de Sudamérica, Asia y Centroamérica.",
+    "image":""
+},
+{
+    "name":"Café robusta",
+    "price":4,
+    "city":"Tarragona",
+    "description":"Si bien tiende a ser menos utilizado a nivel general, esta variedad posee la importante característica de tener un nivel mucho más elevado de cafeína que el anterior, algo que provoca que el sabor que produce a la hora de beberse sea mucho más intenso. y con tono bastante más amargo.",
+    "image":""
+},
+{
+    "name":"Combinaciones",
+    "price":4,
+    "city":"Tarragona",
+    "description":"Una gran parte de los cafés que nos tomamos no proceden únicamente de una de las dos especies anteriores y sus variedades, sino que por lo general nos encontramos ante una mezcla en diferentes proporciones de ambas. La proporción exacta puede depender entre otras cosas del tipo de elaboración que se pretende realizar.",
+    "image":""
+},
+{
+    "name":"Expresso/ Café solo",
+    "price":3,
+    "city":"Tarragona",
+    "description":"Uno de los tipos de café más básicos y sencillos, únicamente consta de un infusión de café la cual se realiza hirviendo agua en contacto con el grano. Se puede preparar en pocos segundos. Se trata de un tipo de café corto, y su tamaño suele ser de alrededor de 30 cl. Es habitual el uso de café de la variante arábiga. Habitualmente suele tener algo de espuma por encima.",
+    "image":""
+},
+{
+    "name":"Ristretto",
+    "price":3,
+    "city":"Barcelona",
+    "description":"Esta variante del espresso se caracteriza por tener la misma cantidad de café que el anterior pero emplear para ello una proporción menor de agua.",
+    "image":""
+},
+{
+    "name":"Cortado o macchiato",
+    "price":3.5,
+    "city":"Barcelona",
+    "description":"Uno de los más demandados por lo general, llamamos cortado o macchiato a un tipo de café espresso a la cual se le agrega una ligera cantidad de leche, que manche o tiña el café.",
+    "image":""
+},
+{
+    "name":"Americano",
+    "price":5.5,
+    "city":"Madrid",
+    "description":"El café americano es un tipo de café derivado del espresso el cual se caracteriza por añadir una cantidad de agua mucho mayor de lo habitual en este tipo de preparación, teniendo como resultado un producto con un sabor menos potente y algo más aguado, algo que lo hace menos amargo y facilita un sabor dulce. En este caso se realizaría primero un espresso y a este se le añadiría externamente agua hirviendo.",
+    "image":""
+},
+{
+    "name":"Lungo/largo",
+    "price":4.8,
+    "city":"Madrid",
+    "description":"El conocido como café largo es un tipo de café en el que la extracción de agua en contacto con los granos de café se realiza de manera más prolongada, lo que conlleva una mayor cantidad de infusión. Se diferencia del anterior en el hecho de que aquí es directamente la infusión la que se produce en mayor cantidad, sin tener que añadir agua externamente. Suele servirse en tazas o incluso vasos largos.",
+    "image":""
+},
+{
+    "name":"Carajillo",
+    "price":2.2,
+    "city":"Sevilla",
+    "description":"El carajillo es un café preparado como un espresso al cual se le añade además de la infusión una cierta cantidad de alguna bebida espirituosa, siendo lo más general el brandy, el orujo o el whisky. Para ello generalmente primero se hecha el licor previamente calentado, al cual se le añadirá el café y posteriormente se le pueden agregar otros elementos como azúcar. Si se emplea brandy junto con ralladura de limón, pasamos a tener el llamado café brulé.",
+    "image":""
+},
+{
+    "name":"Café con leche",
+    "price":1.9,
+    "city":"Sevilla",
+    "description":"Semejante al cortado, el café con leche supone la incorporación de leche al café, solo que en esta ocasión se utiliza una proporción igual o semejante del lácteo y el café. Tiene un sabor más dulce y mucho menos intenso, pero sigue siendo potente a nivel de presencia de cafeína.",
+    "image":""
+},
+{
+    "name":"Café con leche",
+    "price":2.8,
+    "city":"Barcelona",
+    "description":"Semejante al cortado, el café con leche supone la incorporación de leche al café, solo que en esta ocasión se utiliza una proporción igual o semejante del lácteo y el café. Tiene un sabor más dulce y mucho menos intenso, pero sigue siendo potente a nivel de presencia de cafeína.",
+    "image":""
+},
+{
+    "name":"Café con leche",
+    "price":2.1,
+    "city":"Tarragona",
+    "description":"Semejante al cortado, el café con leche supone la incorporación de leche al café, solo que en esta ocasión se utiliza una proporción igual o semejante del lácteo y el café. Tiene un sabor más dulce y mucho menos intenso, pero sigue siendo potente a nivel de presencia de cafeína.",
+    "image":""
+},
+{
+    "name":"Café bombón",
+    "price":2.9,
+    "city":"Tarragona",
+    "description":"Una versión mucho más endulzada del café con leche es la variante conocida café bombón, en el que se sustituye la leche normal por la leche condensada. Lo habitual es que se ponga primero ésta para luego agregar el café.",
+    "image":""
+},
+{
+    "name":"Café bombón",
+    "price":3.4,
+    "city":"Barcelona",
+    "description":"Una versión mucho más endulzada del café con leche es la variante conocida café bombón, en el que se sustituye la leche normal por la leche condensada. Lo habitual es que se ponga primero ésta para luego agregar el café.",
+    "image":""
+},
+{
+    "name":"Café bombón",
+    "price":3.4,
+    "city":"Madrid",
+    "description":"Una versión mucho más endulzada del café con leche es la variante conocida café bombón, en el que se sustituye la leche normal por la leche condensada. Lo habitual es que se ponga primero ésta para luego agregar el café.",
+    "image":""
+},
+{
+    "name":"Capuchino",
+    "price":2.4,
+    "city":"Tarragona",
+    "description":"El capuchino es otro de los cafés más habituales, siendo semejante al café con leche con la excepción de que en este caso solo encontraremos alrededor de un tercio de café, siendo el resto leche. Por lo general gran parte de esta es espumada, y suele añadírsele de forma espolvoreada algo de cacao en polvo para darle un sabor más dulce.",
+    "image":""
+},
+{
+    "name":"Capuchino",
+    "price":2,
+    "city":"Madrid",
+    "description":"El capuchino es otro de los cafés más habituales, siendo semejante al café con leche con la excepción de que en este caso solo encontraremos alrededor de un tercio de café, siendo el resto leche. Por lo general gran parte de esta es espumada, y suele añadírsele de forma espolvoreada algo de cacao en polvo para darle un sabor más dulce.",
+    "image":""
+},
+{
+    "name":"Capuchino",
+    "price":2.1,
+    "city":"Barcelona",
+    "description":"El capuchino es otro de los cafés más habituales, siendo semejante al café con leche con la excepción de que en este caso solo encontraremos alrededor de un tercio de café, siendo el resto leche. Por lo general gran parte de esta es espumada, y suele añadírsele de forma espolvoreada algo de cacao en polvo para darle un sabor más dulce.",
+    "image":""
+},
+{
+    "name":"Mocca",
+    "price":2,
+    "city":"Madrid",
+    "description":"Se trata de una variante del café con leche en el que además de leche y café se emplea obligatoriamente chocolate o cacao en forma de sirope o polvo.",
+    "image":""
+},
+{
+    "name":"Mocca",
+    "price":2.5,
+    "city":"Barcelona",
+    "description":"Se trata de una variante del café con leche en el que además de leche y café se emplea obligatoriamente chocolate o cacao en forma de sirope o polvo.",
+    "image":""
+},
+{
+    "name":"Café irlandés",
+    "price":4.5,
+    "city":"Barcelona",
+    "description":"Un tipo de espresso doble en el cual se le añade Whisky y una capa consistente de nata montada o crema. Suele servirse en copa de cóctel.",
+    "image":""
+},
+{
+    "name":"Café irlandés",
+    "price":2.9,
+    "city":"Tarragona",
+    "description":"Un tipo de espresso doble en el cual se le añade Whisky y una capa consistente de nata montada o crema. Suele servirse en copa de cóctel.",
+    "image":""
+},
+{
+    "name":"Café vienés",
+    "price":3.2,
+    "city":"Barcelona",
+    "description":"Un tipo de café que puede ser espresso simple o doble el cual se acompaña en vez de leche por crema o nata, en una proporción inferior a la del propio café.",
+    "image":""
+},
+{
+    "name":"Frappé",
+    "price":3,
+    "city":"Barcelona",
+    "description":"Una de las pocas variantes cuya conceptualización es directamente como café frío, el frappé se elabora con café instantáneo molido, hielo y crema de leche o nata.",
+    "image":""
+},
+{
+    "name":"Azteca",
+    "price":2,
+    "city":"Barcelona",
+    "description":"Poco conocido y también conceptualizado como café frío, esta variedad se caracteriza por incorporar además de café, hielo y leche una o más bolas de helado, independientemente de su sabor (pero lo general de chocolate). Prácticamente se acerca más a un postre que a una infusión.",
+    "image":""
+}
+]
