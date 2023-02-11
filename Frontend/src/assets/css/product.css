@@ -1,0 +1,36 @@
+
+.card-image{
+  /* max-height: 200px; */
+  padding: 25px;
+  /* width: auto; */
+}
+.card-img-top{
+  width: 190px;
+  margin: 0 auto;
+}
+.card-text{
+  font-size: 13px;
+}
+.card-title{
+  font-size: 18px;
+  font-weight: 600;
+  margin: 20px auto 5px auto;
+
+}
+.card-title:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+button{
+display: flex !important;
+justify-content: center;
+justify-content:space-evenly;
+}
+.card:hover{
+   transform: translate(0, -5px);
+   border:1px solid black
+}
+.card-body{
+  margin-top: 0px;
+}
